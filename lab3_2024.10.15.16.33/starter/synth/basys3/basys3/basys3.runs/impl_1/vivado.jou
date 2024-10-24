@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Oct 22 20:07:11 2024
+# Process ID: 273536
+# Current directory: C:/Users/pooja/Downloads/lab3_2024.10.15.16.33/starter/synth/basys3/basys3/basys3.runs/impl_1
+# Command line: vivado.exe -log basys3.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source basys3.tcl -notrace
+# Log file: C:/Users/pooja/Downloads/lab3_2024.10.15.16.33/starter/synth/basys3/basys3/basys3.runs/impl_1/basys3.vdi
+# Journal file: C:/Users/pooja/Downloads/lab3_2024.10.15.16.33/starter/synth/basys3/basys3/basys3.runs/impl_1\vivado.jou
+# Running On        :PoojaYallaHP
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22621
+# Processor Detail  :12th Gen Intel(R) Core(TM) i7-1255U
+# CPU Frequency     :2611 MHz
+# CPU Physical cores:10
+# CPU Logical cores :12
+# Host memory       :16858 MB
+# Swap memory       :15596 MB
+# Total Virtual     :32454 MB
+# Available Virtual :5886 MB
+#-----------------------------------------------------------
+source basys3.tcl -notrace

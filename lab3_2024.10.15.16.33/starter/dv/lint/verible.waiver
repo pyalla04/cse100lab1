@@ -1,0 +1,8 @@
+# Copyright (c) 2024 Ethan Sifferman.
+# All rights reserved. Distribution Prohibited.
+
+waive --rule=port-name-suffix --location="synth/basys3/basys3.sv"
+waive --rule=dff-name-style --line=33 --location="rtl/images.sv"
+waive --rule=dff-name-style --line=34 --location="rtl/images.sv"
+waive --rule=dff-name-style --line=35 --location="rtl/images.sv"
+waive --rule=dff-name-style --line=36 --location="rtl/images.sv"
