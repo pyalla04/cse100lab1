@@ -1,0 +1,19 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot stop_it_tb_behav xil_defaultlib.stop_it_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/dv/stop_it_tb.sv" Line 4. Module stop_it_tb has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/dv/stop_it_tb.sv" Line 4. Module stop_it_tb has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/project_4/project_4.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/project_4/project_4.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.stop_it_pkg
+Compiling module xil_defaultlib.stop_it
+Compiling module xil_defaultlib.stop_it_tb
+ERROR: [XSIM 43-3294] Signal EXCEPTION_ACCESS_VIOLATION received.

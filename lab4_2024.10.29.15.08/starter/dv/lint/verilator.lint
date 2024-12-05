@@ -1,0 +1,13 @@
+// Copyright (c) 2024 Ethan Sifferman.
+// All rights reserved. Distribution Prohibited.
+
+`verilator_config
+
+lint_off -rule WIDTH
+lint_off -rule MODDUP
+lint_off -rule DECLFILENAME
+
+lint_off -file "*synth/*build/*" -match "*"
+lint_off -file "*yosys/*" -match "*"
+lint_off -rule PINMISSING -file "*dv/*"
+lint_off -rule SYNCASYNCNET -file "*dv/*"

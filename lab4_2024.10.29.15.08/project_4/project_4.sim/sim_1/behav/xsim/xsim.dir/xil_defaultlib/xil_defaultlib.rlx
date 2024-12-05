@@ -1,0 +1,12 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/project_4/project_4.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/dv/stop_it_tb.sv,1730214501,systemVerilog,,,,stop_it_tb,,uvm,,,,,,
+C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/rtl/game_counter.sv,1731219843,systemVerilog,,C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/rtl/led_shifter.sv,,game_counter,,uvm,,,,,,
+C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/rtl/led_shifter.sv,1731219872,systemVerilog,,C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/rtl/lfsr.sv,,led_shifter,,uvm,,,,,,
+C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/rtl/lfsr.sv,1731219934,systemVerilog,,C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/rtl/stop_it_pkg.sv,,lfsr,,uvm,,,,,,
+C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/rtl/stop_it_pkg.sv,1730214501,systemVerilog,C:/Users/pooja/Downloads/stop_it.sv,C:/Users/pooja/Downloads/stop_it.sv,,stop_it_pkg,,uvm,,,,,,
+C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/rtl/time_counter.sv,1731220150,systemVerilog,,C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/dv/stop_it_tb.sv,,time_counter,,uvm,,,,,,
+C:/Users/pooja/Downloads/stop_it.sv,1731222057,systemVerilog,,C:/Users/pooja/Downloads/lab1_2024.09.26.03.37/lab4_2024.10.29.15.08/starter/dv/stop_it_tb.sv,,stop_it,,uvm,,,,,,
